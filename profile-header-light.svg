@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Nonamedr</title>
+  <desc id="desc">Desktop and web development with C#, .NET, Python, and TypeScript. Light banner with coral accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F2F5FA"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="710" y1="30" x2="880" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6534E"/>
+      <stop offset="1" stop-color="#A83241"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#DCE2EC" stroke-opacity=".35"/>
+    </pattern>
+    <clipPath id="clip"><rect x=".5" y=".5" width="959" height="229" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="960" height="230" fill="url(#background)"/>
+    <rect x="620" width="340" height="230" fill="url(#grid)"/>
+    <path d="M618 0V230" stroke="#DCE2EC" stroke-dasharray="3 7"/>
+    <rect x="40" y="42" width="27" height="3" rx="1.5" fill="#D6534E"/>
+    <text x="80" y="48" fill="#566174" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">SOFTWARE DEVELOPMENT</text>
+    <text x="40" y="122" fill="#202B3D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Nonamedr<tspan fill="#D6534E">.</tspan></text>
+    <text x="43" y="157" fill="#566174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">Desktop apps. Web interfaces. Useful tools.</text>
+    <text x="43" y="197" fill="#65728A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.2">C# / .NET / PYTHON / TYPESCRIPT</text>
+    <rect x="692" y="45" width="168" height="142" rx="16" stroke="#C9D2E0"/>
+    <rect x="715" y="63" width="168" height="142" rx="16" fill="#FFFFFF" stroke="#CBD3E0"/>
+    <path d="M737 88H861" stroke="#E1E6EF"/>
+    <circle cx="737" cy="77" r="2.5" fill="#D6534E"/>
+    <circle cx="747" cy="77" r="2.5" fill="#B0BACA"/>
+    <circle cx="757" cy="77" r="2.5" fill="#B0BACA"/>
+    <path d="M766 115L749 134L766 153M831 115L848 134L831 153M810 109L789 159" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M737 178H771M779 178H798" stroke="#B0BACA" stroke-width="3" stroke-linecap="round"/>
+    <path d="M909 42V57M901.5 49.5H916.5M663 179V194M655.5 186.5H670.5" stroke="#A0ACC0" stroke-linecap="round"/>
+  </g>
+  <rect x=".5" y=".5" width="959" height="229" rx="18" stroke="#D1D9E0"/>
+</svg>
