@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" /><img src="./assets/profile-header.svg" width="100%" alt="Nonamedr — desktop and web development" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg?v=2" /><img src="./assets/profile-header.svg?v=2" width="100%" alt="Nonamedr — desktop and web development" /></picture>
 </p>
 
 <p align="center">
