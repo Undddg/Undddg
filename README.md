@@ -1,5 +1,12 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg?v=2" /><img src="./assets/profile-header.svg?v=2" width="100%" alt="Nonamedr — desktop and web development" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Undddg/Undddg/8c7f350c946f41b46ed6bcaa3d78136e487124b1/assets/profile-header-light.svg" />
+    <img
+      src="https://raw.githubusercontent.com/Undddg/Undddg/8c7f350c946f41b46ed6bcaa3d78136e487124b1/assets/profile-header.svg"
+      width="100%"
+      alt="Undddg — desktop and web development" />
+  </picture>
 </p>
 
 <p align="center">
