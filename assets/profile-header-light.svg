@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Nonamedr</title>
+  <title id="title">Undddg</title>
   <desc id="desc">Desktop and web development with C#, .NET, Python, and TypeScript. Light banner with coral accents.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="960" y2="230" gradientUnits="userSpaceOnUse">
@@ -21,7 +21,7 @@
     <path d="M618 0V230" stroke="#DCE2EC" stroke-dasharray="3 7"/>
     <rect x="40" y="42" width="27" height="3" rx="1.5" fill="#D6534E"/>
     <text x="80" y="48" fill="#566174" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">SOFTWARE DEVELOPMENT</text>
-    <text x="40" y="122" fill="#202B3D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Nonamedr<tspan fill="#D6534E">.</tspan></text>
+    <text x="40" y="122" fill="#202B3D" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Undddg<tspan fill="#D6534E">.</tspan></text>
     <text x="43" y="157" fill="#566174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">Desktop apps. Web interfaces. Useful tools.</text>
     <text x="43" y="197" fill="#65728A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.2">C# / .NET / PYTHON / TYPESCRIPT</text>
     <rect x="692" y="45" width="168" height="142" rx="16" stroke="#C9D2E0"/>
